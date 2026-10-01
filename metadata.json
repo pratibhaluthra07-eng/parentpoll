@@ -1,0 +1,6 @@
+{
+  "name": "ParentPal AI",
+  "description": "Personalized AI parenting companion providing practical, age-aware guidance for toddler nutrition, sleep, behavior, and screen-free routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
